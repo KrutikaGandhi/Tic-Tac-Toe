@@ -1,1 +1,1 @@
-Tic Tac Toe game created using JavaScript.
+Discription: Tic Tac Toe game created using JavaScript.
